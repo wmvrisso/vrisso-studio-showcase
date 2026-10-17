@@ -14,26 +14,6 @@ The website brings these projects together through field notes, interactive conc
 
 ## Screenshots
 
-### Vrisso Studio
-
-![Vrisso Studio homepage](assets/screenshots/wav-studio-pic.png)
-
-### WAV Guitar Build
-
-![WAV Guitar Build project page](assets/screenshots/wav-guitar-build-pic.png)
-
-### WAV Sampler Engine
-
-![WAV Sampler Engine project page](assets/screenshots/wav-sampler-pic.png)
-
-### WAV FX Suite
-
-![WAV FX Suite project page](assets/screenshots/wav-fx-pic.png)
-
-### WAV Guitar Theory
-
-![WAV Guitar Theory project page](assets/screenshots/wav-theory-pic.png)
-
 ## UI Concepts
 
 ### WAV Sampler Interface
