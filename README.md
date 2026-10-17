@@ -12,6 +12,39 @@ Vrisso Studio documents the development of browser-based audio software, DSP sys
 
 The website brings these projects together through field notes, interactive concepts, audio demonstrations, interface studies, and product-development updates.
 
+## Screenshots
+
+### Vrisso Studio
+
+![Vrisso Studio homepage](assets/screenshots/wav-studio-pic.png)
+
+### WAV Guitar Build
+
+![WAV Guitar Build project page](assets/screenshots/wav-guitar-build-pic.png)
+
+### WAV Sampler Engine
+
+![WAV Sampler Engine project page](assets/screenshots/wav-sampler-pic.png)
+
+### WAV FX Suite
+
+![WAV FX Suite project page](assets/screenshots/wav-fx-pic.png)
+
+### WAV Guitar Theory
+
+![WAV Guitar Theory project page](assets/screenshots/wav-theory-pic.png)
+
+## UI Concepts
+
+### WAV Sampler Interface
+
+![WAV Sampler interface concept](assets/screenshots/sampler-ui.webp)
+
+### WAV Audio FX Interface
+
+![WAV Audio FX interface concept](assets/screenshots/audio-fx-ui.webp)
+
+
 ## Featured Projects
 
 ### WAV Guitar Build
